@@ -4,6 +4,7 @@ node_modules
 
 # Quasar core related directories
 .quasar
+/deploy
 /dist
 /quasar.config.*.temporary.compiled*
 
